@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about [My Projects](https://github.com/XlanKar "My Projects")
 - 📫 How to reach me: 
   - 🟢 Email: xlankar@gmail.com
-  - 🟢 Portfolio: https://xlankar.com
-  - 🟢 Twitter: [https://twitter.com/xlankar](https://twitter.com/xlankar)
-  - 🟢 İnstagram: [https://www.instagram.com/xlankar](https://www.instagram.com/xlankar)
+  - 🟢 Portfolio: [xlankar.com](https://xlankar.com)
+  - 🟢 Twitter: [twitter.com/xlankar](https://twitter.com/xlankar)
+  - 🟢 İnstagram: [instagram.com/xlankar](https://www.instagram.com/xlankar)
