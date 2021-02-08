@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Hacking Projects
 - 💬 Ask me about [My Projects](https://github.com/XlanKar "My Projects")
 - 📫 How to reach me: 
-  - 🟢 Email: xlankar[at]gmail[dot]com
+  - 🟢 Email: xlankar@gmail.com
   - 🟢 Portfolio: http://xlankar.com
   - 🟢 Twitter: [https://twitter.com/xlankar](https://twitter.com/xlankar)
