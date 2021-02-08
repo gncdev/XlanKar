@@ -1,10 +1,9 @@
 [![XlanKar's github stats](https://github-readme-stats.vercel.app/api?username=XlanKar&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@XlanKar&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XlanKar&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XlanKar&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="XlanKar Spotify Playing" width="350" />](https://open.spotify.com/user/vgsglc0injprgs7ikm5gwhkr1)
 
 </br>
 
