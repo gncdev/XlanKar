@@ -3,7 +3,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XlanKar&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XlanKar&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vgsglc0injprgs7ikm5gwhkr1)
 
 </br>
@@ -21,3 +21,12 @@ Here are some ideas to get you started:
   - 🟢 Portfolio: [xlankar.com](https://xlankar.com)
   - 🟢 Twitter: [twitter.com/xlankar](https://twitter.com/xlankar)
   - 🟢 İnstagram: [instagram.com/xlankar](https://www.instagram.com/xlankar)
+
+Languages: </br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
+
+Tools:
