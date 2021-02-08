@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about [My Projects](https://github.com/XlanKar "My Projects")
 - 📫 How to reach me: 
   - 🟢 Email: xlankar@gmail.com
-  - 🟢 Portfolio: http://xlankar.com
+  - 🟢 Portfolio: https://xlankar.com
   - 🟢 Twitter: [https://twitter.com/xlankar](https://twitter.com/xlankar)
