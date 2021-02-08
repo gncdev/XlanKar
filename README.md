@@ -1,16 +1,14 @@
-### Hi there 👋
+[![XlanKar's github stats](https://github-readme-stats.vercel.app/api?username=MrCl0wnLab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**XlanKar/XlanKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Interface OpenVpnChange with PyQT
+- 🌱 I’m currently learning Python and PyQT
+- 👯 I’m looking to collaborate on Hacking Projects
+- 💬 Ask me about [My Projects](https://github.com/XlanKar "My Projects")
+- 📫 How to reach me: 
+  - 🟢 Email: xlankar[at]gmail[dot]com
+  - 🟢 Portfolio: http://xlankar.com
+  - 🟢 Twitter: [https://twitter.com/xlankar](https://twitter.com/xlankar)
