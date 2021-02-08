@@ -12,3 +12,4 @@ Here are some ideas to get you started:
   - 🟢 Email: xlankar@gmail.com
   - 🟢 Portfolio: https://xlankar.com
   - 🟢 Twitter: [https://twitter.com/xlankar](https://twitter.com/xlankar)
+  - 🟢 İnstagram: [https://www.instagram.com/xlankar](https://www.instagram.com/xlankar)
