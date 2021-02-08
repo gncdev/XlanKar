@@ -4,6 +4,8 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XlanKar&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vgsglc0injprgs7ikm5gwhkr1)
+
 </br>
 
 Python, JavaScript, C++, ... Developer
