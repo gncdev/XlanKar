@@ -10,6 +10,9 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
+</br>
+</br>
+
 [![XlanKar's github stats](https://github-readme-stats.vercel.app/api?username=XlanKar&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XlanKar&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
