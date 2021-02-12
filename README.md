@@ -24,11 +24,10 @@ Here are some ideas to get you started:
   - 🟢 Twitter: [twitter.com/xlankar](https://twitter.com/xlankar)
   - 🟢 İnstagram: [instagram.com/xlankar](https://www.instagram.com/xlankar)
 
-Languages: </br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-
-
-Tools:
+<p align=center>
+<a href="https://gitlab.com/XlanKar"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@XlanKar"></a>
+<a href="https://twitter.com/xlankar"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@XlanKar"></a>
+<a href="https://www.linkedin.com/in/ali-karatel-b523951bb"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@XlanKar"></a>
+<a href="https://www.hackerrank.com/XlanKar"><img src="https://img.shields.io/badge/HackerRank--_.svg?style=social&logo=hackerrank" alt="HackerRank@XlanKar"></a>
+<a href="https://xlankar.com"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contactme"></a>
+</p>
