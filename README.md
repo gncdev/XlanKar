@@ -1,4 +1,4 @@
-### Hi there, I'm [gncdev!](https://teamwtss.com) 👋
+### introducing [gncdev](https://gnc.dev) 👋
 </br>
 </br>
 <p align=center>
@@ -6,6 +6,5 @@
 </p>
 </br>
 <p align=center>
-<a href="https://twitter.com/gncdev"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@gncdev"></a>
-<a href="https://teamwtss.com"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contactme"></a>
+<a href="https://gnc.dev"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contactme"></a>
 </p>
